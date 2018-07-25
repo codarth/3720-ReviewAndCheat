@@ -1,3 +1,9 @@
+# Review and Cheat
+Transfer from school gitlab account no longer available.
+University of Lethbridge CPSC 3720 fall 2018
+
+******************************************************************************************
+# ORIGINAL README
 # Developer Role
 1.	Fork the repository of the person that will review your code on GitLab.
    1.	The Reviewer for your code is the person in the table below who is in the “Reviewer” column where you are in the “Developer” column.
